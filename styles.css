@@ -1,0 +1,29 @@
+html {
+  background-color: yellowgreen;
+}
+
+body {
+  background-position: center top;
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 10%;
+
+
+}
+
+h1 {
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  background-color: purple;
+  border-radius: 15px;
+  border: #CBA2E7 solid 5px;
+  padding: 10px;
+  margin: 0 150px 0 150px;
+}
+
+p {
+  color: grey;
+  text-align: center;
+}

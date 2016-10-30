@@ -5,7 +5,7 @@ console.log("clickNo = " + clickNo);
 function clicked () {
 
   if (clickNo%2 == 1){
-    console.log("User has unclecked the box");
+    console.log("User has unchecked the box");
   } else {
     console.log("User has checked the box");
   }

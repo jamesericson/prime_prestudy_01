@@ -1,3 +1,11 @@
+html, body, h1, form, p {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font-size: 100%;
+  font: inherit;
+}
+
 html {
   background-color: yellowgreen;
 }
@@ -37,5 +45,6 @@ form {
 }
 
 p {
+  margin: 20px 0 20px 0;
   color: grey;
 }
